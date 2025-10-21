@@ -12,12 +12,12 @@ Click any of the buttons below to navigate to the relevant sections.
 <div align="center">
 
 <!-- Hoi Portal -->
-<a href="Hoi Portal">
+<a href="hoi-portal.html">
   <img src="https://img.shields.io/badge/Hoi%20Portal-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Hoi Portal"/>
 </a>
 
 <!-- Leave -->
-<a href="Leave">
+<a href="leave.html">
   <img src="https://img.shields.io/badge/Leave-2196F3?style=for-the-badge&logo=bookstack&logoColor=white" alt="Leave"/>
 </a>
 
